@@ -1,0 +1,13 @@
+# Không đưa dữ liệu game và file build lên GitHub
+CongCu/BanVa/
+CongCu/output/
+*.exe
+*.rpa
+*.rpyc
+*.rpymc
+*.save
+saves/
+cache/
+__pycache__/
+Thumbs.db
+.DS_Store
