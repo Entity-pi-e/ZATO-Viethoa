@@ -12,11 +12,11 @@ Bản Việt hóa không chính thức cho visual novel **Z.A.T.O. // I Love the
 
 - Toàn bộ thoại 3 chương: Ira, Marina, Asya
 - Giao diện, menu, phần cài đặt
-- Các hình ảnh có chữ trong game
+- Các hình ảnh chính có chữ trong game
 
 ## Cách cài
 
-1. Tắt game, giải nén file zip và chạy `VietHoa_x.x.exe`.
+1. Tắt game, giải nén file zip và chạy `VietHoa_1.0.exe`.
 2. Bộ cài tự tìm game trên Steam. Bấm **Next → Install → Finish**.
 3. Mở game từ Steam.
 
@@ -36,27 +36,12 @@ Chỉ tải bản Việt hóa từ trang Releases của kho này.
 
 ## Báo lỗi dịch
 
-Mở một [Issue](../../issues) hoặc liên hệ: [Fanpage / Discord của nhóm]
-
-## Dành cho người làm bản dịch
-
-Thư mục [`CongCu`](CongCu) chứa công cụ dùng để đóng gói bản Việt hóa:
-
-| File | Công dụng |
-| --- | --- |
-| `tao_banva.py` | So sánh thư mục game gốc và thư mục đã dịch, chỉ lấy các file đã sửa (bỏ qua save, cache, file giải nén từ `.rpa` chưa sửa) |
-| `VietHoa.iss` | Script [Inno Setup](https://jrsoftware.org/isinfo.php) tạo bộ cài: tự tìm game trên Steam, sao lưu file gốc, có trình gỡ cài đặt |
-
-Cách dùng:
-
-```
-python tao_banva.py --goc "<thư mục game Steam sạch>" --dich "<thư mục bản dịch>"
-```
-
-Sau đó mở `VietHoa.iss` bằng Inno Setup 6.4+ / 7 và bấm **Build → Compile**.
+Mở một [Issue](../../issues) hoặc liên hệ: 
+Discord: https://discord.com/users/1071627889478488134
+Email: vunhucan853@gmail.com
 
 ## Ghi công
 
-- Game gốc: Z.A.T.O. // I Love the World and Everything In It — mọi quyền thuộc về tác giả. Hãy ủng hộ tác giả bằng cách mua game trên Steam.
-- Bản dịch: [Tên nhóm dịch]
+- Game gốc: Z.A.T.O. // I Love the World and Everything In It — mọi quyền thuộc về tác giả Nopanamaman. Hãy ủng hộ tác giả bằng cách tải game trên Steam.
+- Bản dịch: Entity
 - Bộ cài tạo bằng [Inno Setup](https://jrsoftware.org/isinfo.php).
