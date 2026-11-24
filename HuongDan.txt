@@ -1,6 +1,6 @@
 ﻿==============================================================
   Z.A.T.O. // I Love the World and Everything In It
-  BẢN VIỆT HÓA 1.0 - Entity
+  BẢN VIỆT HÓA 1.1 - Entity
 ==============================================================
 
 Dùng cho: game Z.A.T.O. bản Steam, chạy trên Windows.
@@ -16,7 +16,7 @@ TRƯỜNG HỢP 1: CHƯA TỪNG CÀI BẢN VIỆT HÓA NÀO KHÁC
 2. Kiểm tra game trên Steam:
    Chuột phải vào game > Properties > Installed Files > Verify integrity of game files. Chờ chạy xong. Nếu KHÔNG thấy hiện "All 1888 files successfully validated" hoặc "121 files failed to validate and will be reacquired" thì sang trường hợp 2, không thì tiếp tục
 
-3. Chạy file VietHoa_1.0.exe.
+3. Chạy file VietHoa_1.1.exe.
    - Nếu Windows hiện khung xanh "Windows protected your PC": bấm "More info" > "Run anyway".
    - Windows hỏi quyền quản trị thì bấm "Yes".
 
@@ -41,7 +41,7 @@ Bản dịch cũ đã thêm nhiều file vào thư mục "game". Chức năng Ve
 3. Chép thư mục "game\saves" ra Desktop để giữ save.
 4. XÓA cả thư mục "game". CHỈ XOÁ thư mục này, giữ nguyên ZATO.exe cùng các thư mục khác.
 5. Trong Steam: chuột phải vào game > Properties > Installed Files > Verify integrity of game files. Steam sẽ tải lại thư mục game gốc (khoảng vài trăm MB).
-6. Chạy file VietHoa_1.0.exe.
+6. Chạy file VietHoa_1.1.exe.
    - Nếu Windows hiện khung xanh "Windows protected your PC": bấm "More info" > "Run anyway".
    - Windows hỏi quyền quản trị thì bấm "Yes".
 
