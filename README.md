@@ -16,7 +16,7 @@ Bản Việt hóa không chính thức cho visual novel **Z.A.T.O. // I Love the
 
 ## Cách cài
 
-1. Tắt game, giải nén file zip và chạy `VietHoa_1.0.exe`.
+1. Tắt game, giải nén file zip và chạy `VietHoa_1.1.3.exe`.
 2. Bộ cài tự tìm game trên Steam. Bấm **Next → Install → Finish**.
 3. Mở game từ Steam.
 
