@@ -1,10 +1,28 @@
-﻿==============================================================
+==============================================================
   Z.A.T.O. // I Love the World and Everything In It
-  BẢN VIỆT HÓA 1.1 - Entity
+  BẢN VIỆT HÓA 1.1.3 - Entity
 ==============================================================
 
-Dùng cho: game Z.A.T.O. bản Steam, chạy trên Windows.
-Hãy tải game trên Steam, vì nó mien phí.
+Dùng cho: game Z.A.T.O. bản Steam, chạy trên Windows. Hãy tải game trên Steam, vì nó miễn phí.
+
+
+--------------------------------------------------------------
+CÓ GÌ MỚI TRONG BẢN 1.1.3
+--------------------------------------------------------------
+
+- Sửa một số câu thoại và lỗi trong bản dịch.
+- Save từ bản tiếng Anh giờ đã dùng được với bản Việt hóa:
+  mở save là chơi tiếp, có vài chỗ có thể lùi lại vài câu.
+- Save không mở được sẽ hiện thông báo tiếng Việt thay vì báo lỗi.
+- Lưu ý: save tạo bằng bản Việt hóa 1.0 có thể không mở được.
+
+
+--------------------------------------------------------------
+ĐÃ CÀI BẢN VIỆT HÓA CŨ CỦA NHÓM (1.0, 1.1...)?
+--------------------------------------------------------------
+
+Chỉ cần chạy file VietHoa_1.1.3.exe, không cần gỡ bản cũ.
+Bộ cài sẽ tự cập nhật đè lên.
 
 
 --------------------------------------------------------------
@@ -14,9 +32,11 @@ TRƯỜNG HỢP 1: CHƯA TỪNG CÀI BẢN VIỆT HÓA NÀO KHÁC
 1. Tắt game nếu đang mở.
 
 2. Kiểm tra game trên Steam:
-   Chuột phải vào game > Properties > Installed Files > Verify integrity of game files. Chờ chạy xong. Nếu KHÔNG thấy hiện "All 1888 files successfully validated" hoặc "121 files failed to validate and will be reacquired" thì sang trường hợp 2, không thì tiếp tục
+   Chuột phải vào game > Properties > Installed Files > Verify integrity of game files. Chờ chạy xong.
+   - Hiện "All 1888 files successfully validated" hoặc "121 files failed to validate and will be reacquired": bình thường, tiếp tục bước 3.
+   - Hiện số file lỗi KHÁC 121, hoặc bạn không chắc máy từng cài bản dịch khác: làm theo Trường hợp 2.
 
-3. Chạy file VietHoa_1.1.exe.
+3. Chạy file VietHoa_1.1.3.exe.
    - Nếu Windows hiện khung xanh "Windows protected your PC": bấm "More info" > "Run anyway".
    - Windows hỏi quyền quản trị thì bấm "Yes".
 
@@ -28,29 +48,30 @@ TRƯỜNG HỢP 1: CHƯA TỪNG CÀI BẢN VIỆT HÓA NÀO KHÁC
 
 6. Mở game từ Steam như bình thường.
 
-Về save: save cũ vẫn mở được, nhưng một số save có thể quay về đầu cảnh. Nên bắt đầu lại từ đầu.
+Về save:
+- Save từ bản tiếng Anh: mở được và chơi tiếp bằng tiếng Việt. Ở một vài đoạn, game có thể lùi lại vài câu so với chỗ bạn lưu.
+- Save tạo bằng bản Việt hóa 1.0: có thể không mở được. Khi đó game sẽ hiện thông báo và đưa bạn về menu chính; hãy chơi lại từ đầu chương đang dở.
 
 --------------------------------------------------------------
 TRƯỜNG HỢP 2: ĐÃ CÀI BẢN VIỆT HÓA CỦA NHÓM KHÁC
 --------------------------------------------------------------
 
-Bản dịch cũ đã thêm nhiều file vào thư mục "game". Chức năng Verify của Steam KHÔNG xóa các file này, nên bạn phải dọn trước khi cài, nếu không game có thể bị lẫn chữ hoặc báo lỗi.
-
 1. Tắt game.
 2. Trong Steam, chuột phải vào game > Manage > Browse local files.
 3. Chép thư mục "game\saves" ra Desktop để giữ save.
-4. XÓA cả thư mục "game". CHỈ XOÁ thư mục này, giữ nguyên ZATO.exe cùng các thư mục khác.
+4. XÓA cả thư mục "game". CHỈ XÓA thư mục này, giữ nguyên ZATO.exe cùng các thư mục khác.
 5. Trong Steam: chuột phải vào game > Properties > Installed Files > Verify integrity of game files. Steam sẽ tải lại thư mục game gốc (khoảng vài trăm MB).
-6. Chạy file VietHoa_1.1.exe.
-   - Nếu Windows hiện khung xanh "Windows protected your PC": bấm "More info" > "Run anyway".
+6. Chạy file VietHoa_1.1.3.exe.
+   - Nếu Windows hiện khung xanh "Windows protected your PC":
+     bấm "More info" > "Run anyway".
    - Windows hỏi quyền quản trị thì bấm "Yes".
-
 7. Bộ cài tự tìm thư mục game trên Steam, bạn chỉ cần bấm Next.
    - Nếu đường dẫn sai: bấm Browse và chọn thư mục có file ZATO.exe.
    - Không biết thư mục ở đâu: trong Steam, chuột phải vào game > Manage > Browse local files.
-
 8. Bấm Install, rồi bấm Finish.
 9. Nếu mở game không thấy save, chép thư mục "saves" ở Desktop vào lại trong thư mục "game".
+
+Lưu ý: save tạo bằng bản dịch của nhóm khác có thể không mở được.
 
 Bộ cài cũng tự cảnh báo nếu phát hiện bản Việt hóa khác trong máy.
 
@@ -59,10 +80,7 @@ Bộ cài cũng tự cảnh báo nếu phát hiện bản Việt hóa khác tron
 GỠ BẢN VIỆT HÓA
 --------------------------------------------------------------
 
-Vào Settings > Apps > Installed apps, tìm
-"Z.A.T.O. I Love the World and Everything In It - Việt hóa"
-và bấm Uninstall. Game sẽ trở về bản tiếng Anh gốc.
-
+Vào Settings > Apps > Installed apps, tìm "Z.A.T.O. I Love the World and Everything In It - Việt hóa" và bấm Uninstall. Game sẽ trở về bản tiếng Anh gốc.
 
 --------------------------------------------------------------
 SỰ CỐ THƯỜNG GẶP
@@ -70,6 +88,9 @@ SỰ CỐ THƯỜNG GẶP
 
 * Bộ cài báo "Không tìm thấy game trong thư mục này"
   -> Bấm Browse, chọn thư mục chứa ZATO.exe.
+
+* Mở save thì hiện thông báo "Save này được tạo bằng phiên bản khác..."
+  -> Save đó đến từ bản Việt hóa 1.0 hoặc bản dịch khác, không tương thích với bản hiện tại. Hãy chơi lại từ đầu chương đang dở.
 
 * Chữ bị lẫn hai bản dịch, chữ ô vuông, hoặc lỗi "label ... is defined twice"
   -> Còn file của bản dịch khác: làm Trường hợp 2.
@@ -84,9 +105,9 @@ SỰ CỐ THƯỜNG GẶP
   -> Bình thường. Game tự ghi lại các file bộ nhớ đệm mỗi lần chạy, không liên quan đến bản Việt hóa.
 
 * Phần mềm diệt virus cảnh báo file cài
-  -> Một số phần mềm báo nhầm vì file cài không có chữ ký số trả phí. Các phần mềm lớn như Windows Defender, Kaspersky, ESET, BitDefender đều báo sạch. Kết quả kiểm tra: https://www.virustotal.com/gui/file/d0d65c54bebf34d104a9357f97656411c85114a7faad6a2f83ab81bcca857a1a
+  -> Một số phần mềm báo nhầm vì file cài không có chữ ký số trả phí. Các phần mềm lớn như Windows Defender, Kaspersky, ESET, BitDefender đều báo sạch. Kết quả kiểm tra bản 1.1.3:https://www.virustotal.com/gui/file/b33b2a4fc566af3af4abb373fef3ad83ca377a46d63bbf20fd64213e843dd172?nocache=1
 
-     Chỉ tải bản Việt hóa từ link chính thức của nhóm.
+     Chỉ tải bản Việt hóa từ link chính thức của nhóm(một mình tôi).
 
 
 --------------------------------------------------------------
@@ -97,4 +118,4 @@ Discord: https://discord.com/users/1071627889478488134
 Email: vunhucan853@gmail.com
 
 
-Cảm ơn bạn đã ủng hộ. Hãy ủng hộ tác giả bằng cách mua game!
+Cảm ơn bạn đã ủng hộ. Hãy ủng hộ tác giả bằng cách để lại đánh giá tốt cho game trên Steam hoặc mua Digital Art Pack nhé!
